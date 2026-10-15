@@ -14,7 +14,7 @@ $Propietario = "Daniel Males";
 $ciudad = "Pasto";
 
 
-$edad = 19;
+$edad = 17;
 
 
 $dia = "martes";
